@@ -15,4 +15,8 @@
   "price": {
     "price": "2.22"
   }
+  "bulkTransfers": {
+    "bulkTransferId": 1223233333,
+    "bulkTransferState": "ACCEPTED"
+  }
 }
